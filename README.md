@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shahib — a passionate student and aspiring developer.  <br>I love building projects that solve real-world problems using code.  <br>Currently learning web development and always exploring new technologies.  <br>I enjoy contributing to open-source and collaborating with like-minded devs.  <br>In my free time, I explore GitHub, learn from others, and improve my skills.  <br>Let's connect and build something awesome together!
+Hi, I'm Shahib - a passionate student and aspiring developer.  <br>I love building projects that solve real-world problems using code.  <br>Currently learning web development and always exploring new technologies.  <br>I enjoy contributing to open-source and collaborating with like-minded devs.  <br>In my free time, I explore GitHub, learn from others, and improve my skills.  <br>Let's connect and build something awesome together!
 
 
 ## 🌐 Socials:
