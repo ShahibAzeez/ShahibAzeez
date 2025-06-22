@@ -2,9 +2,6 @@
 Hi, I'm Shahib - a passionate student and aspiring developer.  <br>I love building projects that solve real-world problems using code.  <br>Currently learning web development and always exploring new technologies.  <br>I enjoy contributing to open-source and collaborating with like-minded devs.  <br>In my free time, I explore GitHub, learn from others, and improve my skills.  <br>Let's connect and build something awesome together!
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahib_azeez) 
-
 # 💻 Tech Stack:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
