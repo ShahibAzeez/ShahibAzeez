@@ -1,9 +1,46 @@
-# 💫 About Me:
-Hi, I'm Shahib - a passionate student and aspiring developer.  <br>I love building projects that solve real-world problems using code.  <br>Currently learning web development and always exploring new technologies.  <br>I enjoy contributing to open-source and collaborating with like-minded devs.  <br>In my free time, I explore GitHub, learn from others, and improve my skills.  <br>Let's connect and build something awesome together!
+# Hi, I'm Shahib Azeez 👋  
+*Legal Name: Mohammad Shahib*
 
+🎓 Incoming B.Tech Student – Artificial Intelligence & Data Science  
+🏫 ACEIT, Jaipur | Batch: 2025–2029  
+📅 College begins: August 2025  
+🌐 Portfolio: [shahib.dev](https://shahib.dev)  
+📬 Email: mohammad.shahib@example.com
 
-# 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
+
+## 🚀 About Me
+
+I'm an aspiring AI/ML developer, currently preparing for my B.Tech journey in Artificial Intelligence & Data Science at ACEIT, Jaipur.
+
+While my **legal name is Mohammad Shahib**, I go by **Shahib Azeez** across my online and professional work — including GitHub, LinkedIn, and my upcoming projects.
+
+I’m currently learning:
+- Python (Core + Basic ML Libraries)
+- Git & GitHub for version control
+- HTML/CSS for web development
+- Basics of APIs and JavaScript
+
+---
+
+## 📘 Learning Projects Coming Soon!
+
+🔧 I’ll be working on:
+- ✅ My personal portfolio site at  *******
+- ✅ A beginner-friendly "*********" platform  
+- ✅ Basic AI & ML model demos (NLP, classification, etc.)
+
+Stay tuned and follow my journey! 🌱
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 Website: *******
+- 🔗 LinkedIn: *******
+- 📩 Email: *********
+
+- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShahibAzeez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShahibAzeez&theme=dark&hide_border=false)<br/>
