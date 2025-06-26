@@ -4,8 +4,8 @@
 🎓 Incoming B.Tech Student – Artificial Intelligence & Data Science  
 🏫 ACEIT, Jaipur | Batch: 2025–2029  
 📅 College begins: August 2025  
-🌐 Portfolio: [shahib.dev](https://shahib.dev)  
-📬 Email: mohammad.shahib@example.com
+🌐 Portfolio: [*****](*****)  
+📬 Email: *******
 
 ---
 
